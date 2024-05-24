@@ -45,7 +45,8 @@ Welcome to the Foreground Counter Feature repository! This project showcases a s
 4.> Stop Counting: Press the Stop button to stop the counter and remove the notification.
 
 ## Screenshots
-![App Screenshot](https://ezgif.com/save/ezgif-6-c63902b1a2.gif)
+<img src="https://github.com/Bhavyansh03-tech/Foreground_Services/assets/96388594/ad717b73-7668-4ccf-98e4-d60977f9d7a0" alt="WebToApp" width="200"/>
+
 
 
 ## Acknowledgements
