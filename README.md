@@ -39,9 +39,9 @@ Welcome to the Foreground Counter Feature repository! This project showcases a s
 3.> Build and run the app on your device or emulator.
 
 ## Usage
-1.> Start the App: Launch the application on your device.
-2.> Start Counting: Press the Start button to initiate the counter.
-3.> View Notification: Observe the notification showing the current count.
+1.> Start the App: Launch the application on your device.\
+2.> Start Counting: Press the Start button to initiate the counter.\
+3.> View Notification: Observe the notification showing the current count.\
 4.> Stop Counting: Press the Stop button to stop the counter and remove the notification.
 
 ## Screenshots
